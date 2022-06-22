@@ -5,11 +5,10 @@
 
 <div id="greetings" align="left">
     <h2>Hi there 👋</h2>
-    <p>I love working with growing organisations and collaborating with the development teams to find tailored fit solutions.
+    <p>
     Being a creative mind, I love building things up while enjoying the ride.
     </p>
-    <p>I design and develop scaled applications with Typescript and React. 
-        My approach is based on a "holistic" view of the domain problem. Solutions take into account the business needs, the team size, and all the aspects that may rise up during all the phases of the project.</p> 
+    <p></p> 
     <br /><br />
     <p align="center">Certified SAFe Agilist and Scrum Master. <br /><br />
             <img src="https://images.credly.com/size/680x680/images/969ca68c-6793-4ebc-b35a-1d2663ad3c26/cert_mark_SA_badge_large_300px.png" width="60" height="60" />
