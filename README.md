@@ -5,9 +5,9 @@
 
 <div id="greetings" align="left">
     <h2>Hi there 👋</h2>
-    <p>
+<!--     <p>
     Being a creative mind, I love building things up while enjoying the ride.
-    </p>
+    </p> -->
     <p></p> 
     <br /><br />
     <p align="center">Certified SAFe Agilist and Scrum Master. <br /><br />
