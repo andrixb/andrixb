@@ -8,6 +8,7 @@
 <!--     <p>
     Being a creative mind, I love building things up while enjoying the ride.
     </p> -->
+      <p align="center"> 📫 How to reach me: <br /> <br /> <a href="https://www.linkedin.com/in/andreabaldo/"> <img src="https://img.shields.io/badge/LinkedIn-andbaldo-blue?style=flat&logo=Linkedin&logoColor=white" /></a></p>
     <p></p> 
     <br /><br />
     <p align="center">Certified SAFe Agilist and Scrum Master. <br /><br />
@@ -15,7 +16,6 @@
             <img src="https://images.credly.com/images/21d4f3ab-bf8a-4fc7-9bf5-432729fa558d/linkedin_thumb_BADGES_FINAL_PSM-II_600.png" width="120" height="60" />&nbsp;
     </p>
     <br />
-    <p align="center"> 📫 How to reach me: <br /> <br /> <a href="https://www.linkedin.com/in/andreabaldo/"> <img src="https://img.shields.io/badge/LinkedIn-andbaldo-blue?style=flat&logo=Linkedin&logoColor=white" /></a></p>
 </div>
 <br />
 <br />
